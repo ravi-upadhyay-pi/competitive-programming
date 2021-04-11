@@ -4,10 +4,10 @@ main
 main.*
 rust
 *.class
-*input.txt*
+input.txt*
 *.exe
 *~
 ~*
 #*
 *#
-
+Solution.java
